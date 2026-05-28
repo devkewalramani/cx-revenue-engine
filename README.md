@@ -7,7 +7,7 @@
 
 ## The Problem This Framework Solves
 
-Most customer experience organizations fail commercially — not because the people are wrong, but because the operating model is wrong from the start.
+Most customer experience organizations fail commercially, not because the people are wrong, but because the operating model is wrong from the start.
 
 They get built inside the wrong part of the org chart. They get staffed with the wrong profiles. They get measured on the wrong metrics. And they get confused with two things they are emphatically not: customer support and account management.
 
